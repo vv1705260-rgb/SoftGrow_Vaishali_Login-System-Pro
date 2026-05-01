@@ -39,12 +39,6 @@ This project demonstrates file handling, user input validation, and basic securi
 | `users.txt` | Auto-created file that stores username,password,date |
 | `README.md` | Project documentation |
 
-## 📸 Screenshots
-Add screenshots of your terminal here showing:
-1. Successful signup with password validation
-2. Successful login message
-3. View Users list
-
 ## 🎯 What I Learned
 - File handling: read/write operations in Python
 - Input validation and error handling
@@ -58,6 +52,6 @@ This project is submitted as part of **Python Programming Task 1** at **SoftGrow
 **Selected:** Project 2 - Login & Signup System with special features
 
 ---
-**Developer:** [ Vaishali ]  
+**Developer:** [ Vaishali☁️ ]  
 **LinkedIn:** [https://www.linkedin.com/in/vaishali-357946292006deimos
 https://www.linkedin.com/in/vaishali-357946292006deimos?trk=contact-info ]
